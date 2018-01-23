@@ -1,0 +1,16 @@
+-1 Create globale folder for the Project
+-2 Open CMD in project folder
+-3 Run "composer create-project --prefer-dist laravel/laravel ProjectName"
+-4 Run "vue init webpack-simple vuejs_name_project"
+-5 Open "vuejs_name_project" folder 
+-6 Run "npm install"
+ In globale project folder
+-7 Run "Git Bash Here"
+-8 Run "init"
+-9 Run "git remote add origin Repo_URL"
+-10 Run "git add ."
+-11 Run "git commit -m "first commit/your message"
+-12 Run "git push -u origin master"
+
+Enjoy!!
+
